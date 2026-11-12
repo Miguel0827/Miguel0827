@@ -24,17 +24,17 @@ An endless voxel world, built with Godot and Rust. That's all I can say for now.
 
 #### PS2 on PC
 
-My first release is **[Crash Tag Team Racing PC](https://github.com/Miguel0827/Crash-Tag-Team-Racing-PC)**: the game recompiled into a real Windows program, built from your own disc.
+Native PC ports of PS2 games: each game recompiled into a real Windows and Linux program, built from your own disc.
 
-<p>
-<a href="https://recomplauncher.com/game/crash-tag-team-racing-pc"><picture><source media="(prefers-color-scheme: dark)" srcset="https://recomplauncher.com/assets/press/launcher/badge-light.svg"><img src="https://recomplauncher.com/assets/press/launcher/badge-dark.svg" alt="Get it on RecompLauncher" height="48"></picture></a>
+<p align="center">
+<a href="https://github.com/Miguel0827/Crash-Tag-Team-Racing-PC"><b>Crash Tag Team Racing PC</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/Miguel0827/Crash-Wrath-of-Cortex-PC"><b>Crash Bandicoot: The Wrath of Cortex PC</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/Miguel0827/Ratatouille-PC"><b>Ratatouille PC</b></a>
 </p>
 
 Next on my list:
 
 <p>
-<img src="https://img.shields.io/badge/The_Wrath_of_Cortex-a855f7?style=for-the-badge" alt="Crash Bandicoot: The Wrath of Cortex">
-<img src="https://img.shields.io/badge/Ratatouille-9333ea?style=for-the-badge" alt="Ratatouille">
 <img src="https://img.shields.io/badge/WALL--E-a855f7?style=for-the-badge" alt="WALL-E">
 <img src="https://img.shields.io/badge/PES_2014-9333ea?style=for-the-badge" alt="PES 2014">
 <img src="https://img.shields.io/badge/Crash_Nitro_Kart_online-a855f7?style=for-the-badge" alt="Crash Nitro Kart, online play">
